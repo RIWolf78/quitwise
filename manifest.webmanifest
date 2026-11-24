@@ -1,0 +1,16 @@
+{
+  "name": "Quitwise \u2014 Quit Smoking",
+  "short_name": "Quitwise",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#173d32",
+  "description": "A supportive smoking cessation tracker and quit plan.",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
